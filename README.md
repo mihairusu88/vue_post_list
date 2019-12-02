@@ -1,5 +1,3 @@
-# vue_post_list
-
 # Vue Post List
 
 > Vue post list with mock values (https://jsonplaceholder.typicode.com/). 
