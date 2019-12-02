@@ -1,5 +1,11 @@
 # vue_post_list
 
+# Vue Post List
+
+> Vue post list with mock values (https://jsonplaceholder.typicode.com/). 
+
+This project was bootstrapped with [vue create hello-world](https://cli.vuejs.org/guide/creating-a-project.html#vue-create).
+
 ## Project setup
 ```
 npm install
